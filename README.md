@@ -24,7 +24,7 @@ docker run --tty --rm -v /var/run/docker.sock:/var/run/docker.sock -v $(pwd)/one
 
 ![first setup steps 1](./documentation/hugo/static/images/onedev/quickstart/edev_ui_first_access_step1.png)
 
-![first setup steps 2](./documentation/hugo/static/images/onedev/quickstart/edev_ui_first_access_step2.png)
+![first setup steps 2](./documentation/hugo/static/images/onedev/quickstart/onedev_ui_first_access_step2.png)
 
 ![first setup steps 3](./documentation/hugo/static/images/onedev/quickstart/edev_ui_first_access_step3.png)
 
@@ -33,7 +33,7 @@ docker run --tty --rm -v /var/run/docker.sock:/var/run/docker.sock -v $(pwd)/one
 * Add your SSH Key to your your OneDev User :
 
 
-![add ssh key](documentation/hugo/static/images/onedev/quickstart/onedev_add_ssh_key.png)
+![add ssh key](./documentation/hugo/static/images/onedev/quickstart/onedev_add_ssh_key.png)
 
 * test your SSH Key :
 
