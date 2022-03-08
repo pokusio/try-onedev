@@ -97,7 +97,7 @@ What will be very important in assessing OneDev : How open is it to the world, o
 
 I can easily contribute there :
 
-* It's only `Java`
+* It's only `Java`. (looks like a springboot app, maybe we could play and turn the app into a quarkus app, and then a vertx.io app)
 * I will use gitpod as IDE, not eclipse, thanks to https://code.onedev.io/projects/162/blob/main/pages/development-environment-setup.md#cli-based-setup
 * I will try and bring the kanban feature (customize Kanban board) :
 * Oh, an dsince it is Java, I could perhaps contribute to their CICD.
