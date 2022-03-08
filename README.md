@@ -93,6 +93,20 @@ git push -u onedev master:master
 What will be very important in assessing OneDev : How open is it to the world, or how far does it go into integration with other openb source projects ? IS is goin g to be another gitlab big boat that wants to be your whole world ?
 
 
+## Contribute
+
+I can easily contribute there :
+
+* It's only `Java`
+* I will use gitpod as IDE, not eclipse, thanks to https://code.onedev.io/projects/162/blob/main/pages/development-environment-setup.md#cli-based-setup
+* I will try and bring the kanban feature (customize Kanban board) :
+* Oh, an dsince it is Java, I could perhaps contribute to their CICD.
+
+
+Good Pokus opportunity there.
+
+
+
 ## Kubernetes setup
 
 ### `k3d`
