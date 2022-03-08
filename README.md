@@ -83,7 +83,7 @@ git push -u onedev master:master
 
 ![onedev no label ](./documentation/hugo/static/images/onedev/quickstart/onedev_issues_do_not_have_labels.png)
 
-* I want to be able to customize KAnban dashboard, I am not happy with the column number and columns names :
+* I want to be able to customize Kanban dashboard, I am not happy with the column number and columns names :
 
 ![onedev no label](./documentation/hugo/static/images/onedev/quickstart/onedev_kanban_board.png)
 
